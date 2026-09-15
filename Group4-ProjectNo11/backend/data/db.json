@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "demo-rider-1",
+      "name": "Alex Morgan",
+      "email": "user@rideflow.com",
+      "password": "123456",
+      "role": "rider",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-driver-1",
+      "name": "Raj Sharma",
+      "email": "driver@rideflow.com",
+      "password": "123456",
+      "role": "driver",
+      "licenseNumber": "MH1420230012345",
+      "carNumber": "MH 43 BK 7821",
+      "carBrand": "Maruti Suzuki Dzire",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-driver-2",
+      "name": "Amit Verma",
+      "email": "amit@rideflow.com",
+      "password": "123456",
+      "role": "driver",
+      "licenseNumber": "MH1320230054321",
+      "carNumber": "MH 02 AB 4411",
+      "carBrand": "Hyundai Creta",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "rides": []
+}
